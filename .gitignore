@@ -1,0 +1,10 @@
+.classpath
+.project
+*.prefs
+*.html
+*.png
+*.css
+*.js
+*.gif
+/.metadata/
+/target/
